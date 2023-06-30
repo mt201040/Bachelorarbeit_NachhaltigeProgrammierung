@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Testfall3SortCSharpN.exe" version="1.0.0.0" publicKeyToken="7aa05a117577e43d" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Testfall3SortCSharpN" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Testfall3SortCSharpN.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC-Manifestoptionen
+          Wenn Sie die Zugangsebene für das Windows-Benutzerkonto ändern möchten, ersetzen Sie den 
+          requestedExecutionLevel-Knoten durch eines der folgenden Elemente.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Löschen Sie den requestedExecutionLevel-Knoten, wenn Sie 
+         zum Gewährleisten der Abwärtskompatibilität die Datei- und Registrierungsvirtualisierung verwenden möchten.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Testfall3SortCSharpN.exe" size="5528">
+      <assemblyIdentity name="Testfall3SortCSharpN" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Gz/8HK6Ro9aOOwr0IPOsHZbgYGIUDiZlggkozeDGk/I=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Testfall3SortCSharpN.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=MSI\deske" issuerKeyHash="69d5d5f03b04b1e3ae26a1b96b82aea4c5ffc7c2" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>fhISiuLB3+UAmWo/2K04YDpFj81PZhjshIpI/oAIOMQ=</DigestValue></Reference></SignedInfo><SignatureValue>o47fTu4Opyn9iVIb/HpkPZ2sn5bOWv0/8ZfDXCJ4RWSWR3eduvDVsaA6OIU+dm1KCyjMACvrdYzXDRzzxnG+AOfH9Ark6l3KyuNvchsW0FAEn8Nq/Y+IERCVxvjB1oXR2KBB191vhzmyW5mQWc18um6bmWzLPO/wZGmXrJmeDFE=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wEY15r6vlEJJ6hu6UYT2QqWAYn3G4eMuNU7kksFdDJa8gV6wE1/j9MV6IUJM1KXE1MQG58xS/fpBjv+QLhHhq2YIjWxiCCpYoRq/LFmzf1VDZql1vHry2aCB/qTOMsZsks9p78zsuAx9rgxTIYgCqlad4eDl+e6jEClN2W/9ooE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="c4380880fe488a84ec18664fcd8f453a6038add83f6a9900e5dfc1e28a12127e" Description="" Url=""><as:assemblyIdentity name="Testfall3SortCSharpN.exe" version="1.0.0.0" publicKeyToken="7aa05a117577e43d" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=MSI\deske</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>6RWGPmZ4vfqNMipnaX6b3biteXbmBUhfClX2lzBjSmM=</DigestValue></Reference></SignedInfo><SignatureValue>aumakjmEmIihp49Bv5iGfg3+NlzTKremAbGVC9v70sMjwofcFVphalQkZTQfnk1GHQUsvQNpuMyr9jSXEYtdjGQG2J6MPV1fJifAbvhN9nUyRnyBf88VvWRljIVy9gxMOU9G73Tjz9mMagziAWtMGRRqC9fyczvB3rNzVQRIxNc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wEY15r6vlEJJ6hu6UYT2QqWAYn3G4eMuNU7kksFdDJa8gV6wE1/j9MV6IUJM1KXE1MQG58xS/fpBjv+QLhHhq2YIjWxiCCpYoRq/LFmzf1VDZql1vHry2aCB/qTOMsZsks9p78zsuAx9rgxTIYgCqlad4eDl+e6jEClN2W/9ooE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBvTCCASagAwIBAgIQN8vHln0F4JJPU7IDxhEiHzANBgkqhkiG9w0BAQsFADAdMRswGQYDVQQDHhIATQBTAEkAXABkAGUAcwBrAGUwHhcNMjMwNjI3MjIxMzQxWhcNMjQwNjI3MDQxMzQxWjAdMRswGQYDVQQDHhIATQBTAEkAXABkAGUAcwBrAGUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMBGNea+r5RCSeobulGE9kKlgGJ9xuHjLjVO5JLBXQyWvIFesBNf4/TFeiFCTNSlxNTEBufMUv36QY7/kC4R4atmCI1sYggqWKEavyxZs39VQ2apdbx68tmggf6kzjLGbJLPae/M7LgMfa4MUyGIAqpWneHg5fnuoxApTdlv/aKBAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAmW3Qa8sLNefSuvjWnJNeg2g9bimXXFnL0eN5uHb5WvFccF5F1fV/k0ojsgOTwnKS8Hs9nR3a4EVZZwwa49+w0bAM6zz7E2pN4ITo9+Wl0v4u6Udh1pnIqUntfCP6JI7IG7syvIk7c/ysBjab3Sb+QiYS0RHLNsY8r2SO4VhprBQ=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

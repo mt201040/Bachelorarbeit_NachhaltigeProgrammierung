@@ -1,0 +1,18 @@
+C:\Users\deske\Desktop\FH 6 SEM\Bachelorarbeit Backup\Bachelorarbeit Testfäle\Testfall3SortierenCSharp\Testfall3SortierenCSharp\bin\Debug\Testfall3SortierenCSharp.exe.config
+C:\Users\deske\Desktop\FH 6 SEM\Bachelorarbeit Backup\Bachelorarbeit Testfäle\Testfall3SortierenCSharp\Testfall3SortierenCSharp\bin\Debug\Testfall3SortierenCSharp.exe
+C:\Users\deske\Desktop\FH 6 SEM\Bachelorarbeit Backup\Bachelorarbeit Testfäle\Testfall3SortierenCSharp\Testfall3SortierenCSharp\bin\Debug\Testfall3SortierenCSharp.pdb
+C:\Users\deske\Desktop\FH 6 SEM\Bachelorarbeit Backup\Bachelorarbeit Testfäle\Testfall3SortierenCSharp\Testfall3SortierenCSharp\obj\Debug\Testfall3SortierenCSharp.csprojAssemblyReference.cache
+C:\Users\deske\Desktop\FH 6 SEM\Bachelorarbeit Backup\Bachelorarbeit Testfäle\Testfall3SortierenCSharp\Testfall3SortierenCSharp\obj\Debug\Testfall3SortierenCSharp.csproj.CoreCompileInputs.cache
+C:\Users\deske\Desktop\FH 6 SEM\Bachelorarbeit Backup\Bachelorarbeit Testfäle\Testfall3SortierenCSharp\Testfall3SortierenCSharp\obj\Debug\Testfall3SortierenCSharp.exe
+C:\Users\deske\Desktop\FH 6 SEM\Bachelorarbeit Backup\Bachelorarbeit Testfäle\Testfall3SortierenCSharp\Testfall3SortierenCSharp\obj\Debug\Testfall3SortierenCSharp.pdb
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall3SortierenCSharp\Testfall3SortierenCSharp\bin\Debug\Testfall3SortierenCSharp.exe.config
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall3SortierenCSharp\Testfall3SortierenCSharp\bin\Debug\Testfall3SortierenCSharp.exe
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall3SortierenCSharp\Testfall3SortierenCSharp\bin\Debug\Testfall3SortierenCSharp.pdb
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall3SortierenCSharp\Testfall3SortierenCSharp\obj\Debug\Testfall3SortierenCSharp.csprojAssemblyReference.cache
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall3SortierenCSharp\Testfall3SortierenCSharp\obj\Debug\Testfall3SortierenCSharp.csproj.CoreCompileInputs.cache
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall3SortierenCSharp\Testfall3SortierenCSharp\obj\Debug\Testfall3SortierenCSharp.exe
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall3SortierenCSharp\Testfall3SortierenCSharp\obj\Debug\Testfall3SortierenCSharp.pdb
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall3SortierenCSharp\Testfall3SortierenCSharp\bin\Debug\Testfall3SortierenCSharp.exe.manifest
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall3SortierenCSharp\Testfall3SortierenCSharp\bin\Debug\Testfall3SortierenCSharp.application
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall3SortierenCSharp\Testfall3SortierenCSharp\obj\Debug\Testfall3SortierenCSharp.exe.manifest
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall3SortierenCSharp\Testfall3SortierenCSharp\obj\Debug\Testfall3SortierenCSharp.application

@@ -1,0 +1,13 @@
+C:\Users\deske\Desktop\FH 6 SEM\Bachelorarbeit Backup\Bachelorarbeit Testfäle\Testfall1PrimzahlenCSharp\Testfall1PrimzahlenCSharp\obj\Debug\Testfall1PrimzahlenCSharp.csprojAssemblyReference.cache
+C:\Users\deske\Desktop\FH 6 SEM\Bachelorarbeit Backup\Bachelorarbeit Testfäle\Testfall1PrimzahlenCSharp\Testfall1PrimzahlenCSharp\obj\Debug\Testfall1PrimzahlenCSharp.csproj.CoreCompileInputs.cache
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall1PrimzahlenCSharp\Testfall1PrimzahlenCSharp\bin\Debug\Testfall1PrimzahlenCSharp.exe.config
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall1PrimzahlenCSharp\Testfall1PrimzahlenCSharp\bin\Debug\Testfall1PrimzahlenCSharp.exe
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall1PrimzahlenCSharp\Testfall1PrimzahlenCSharp\bin\Debug\Testfall1PrimzahlenCSharp.pdb
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall1PrimzahlenCSharp\Testfall1PrimzahlenCSharp\obj\Debug\Testfall1PrimzahlenCSharp.csprojAssemblyReference.cache
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall1PrimzahlenCSharp\Testfall1PrimzahlenCSharp\obj\Debug\Testfall1PrimzahlenCSharp.csproj.CoreCompileInputs.cache
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall1PrimzahlenCSharp\Testfall1PrimzahlenCSharp\obj\Debug\Testfall1PrimzahlenCSharp.exe
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall1PrimzahlenCSharp\Testfall1PrimzahlenCSharp\obj\Debug\Testfall1PrimzahlenCSharp.pdb
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall1PrimzahlenCSharp\Testfall1PrimzahlenCSharp\bin\Debug\Testfall1PrimzahlenCSharp.exe.manifest
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall1PrimzahlenCSharp\Testfall1PrimzahlenCSharp\bin\Debug\Testfall1PrimzahlenCSharp.application
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall1PrimzahlenCSharp\Testfall1PrimzahlenCSharp\obj\Debug\Testfall1PrimzahlenCSharp.exe.manifest
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall1PrimzahlenCSharp\Testfall1PrimzahlenCSharp\obj\Debug\Testfall1PrimzahlenCSharp.application

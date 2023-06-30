@@ -1,0 +1,26 @@
+C:\Users\deske\Desktop\Testfall2DatenbankCSharp\Testfall2DatenbankCSharp\bin\Debug\Testfall2DatenbankCSharp.exe.config
+C:\Users\deske\Desktop\Testfall2DatenbankCSharp\Testfall2DatenbankCSharp\bin\Debug\Testfall2DatenbankCSharp.exe
+C:\Users\deske\Desktop\Testfall2DatenbankCSharp\Testfall2DatenbankCSharp\bin\Debug\Testfall2DatenbankCSharp.pdb
+C:\Users\deske\Desktop\Testfall2DatenbankCSharp\Testfall2DatenbankCSharp\obj\Debug\Testfall2DatenbankCSharp.csprojAssemblyReference.cache
+C:\Users\deske\Desktop\Testfall2DatenbankCSharp\Testfall2DatenbankCSharp\obj\Debug\Testfall2DatenbankCSharp.csproj.CoreCompileInputs.cache
+C:\Users\deske\Desktop\Testfall2DatenbankCSharp\Testfall2DatenbankCSharp\obj\Debug\Testfall2DatenbankCSharp.exe
+C:\Users\deske\Desktop\Testfall2DatenbankCSharp\Testfall2DatenbankCSharp\obj\Debug\Testfall2DatenbankCSharp.pdb
+C:\Users\deske\Desktop\Testfall2DatenbankCSharp\Testfall2DatenbankCSharp\bin\Debug\Testfall2DatenbankCSharp.exe.manifest
+C:\Users\deske\Desktop\Testfall2DatenbankCSharp\Testfall2DatenbankCSharp\bin\Debug\Testfall2DatenbankCSharp.application
+C:\Users\deske\Desktop\Testfall2DatenbankCSharp\Testfall2DatenbankCSharp\obj\Debug\Testfall2DatenbankCSharp.exe.manifest
+C:\Users\deske\Desktop\Testfall2DatenbankCSharp\Testfall2DatenbankCSharp\obj\Debug\Testfall2DatenbankCSharp.application
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Programmcode\CSharp\Nich optimiert\Testfall2DatenbankCSharp\Testfall2DatenbankCSharp\bin\Debug\Testfall2DB.mdf
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Programmcode\CSharp\Nich optimiert\Testfall2DatenbankCSharp\Testfall2DatenbankCSharp\bin\Debug\Testfall2DB_log.ldf
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Programmcode\CSharp\Nich optimiert\Testfall2DatenbankCSharp\Testfall2DatenbankCSharp\bin\Debug\Testfall2DatenbankCSharp.exe.config
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Programmcode\CSharp\Nich optimiert\Testfall2DatenbankCSharp\Testfall2DatenbankCSharp\bin\Debug\Testfall2DatenbankCSharp.exe.manifest
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Programmcode\CSharp\Nich optimiert\Testfall2DatenbankCSharp\Testfall2DatenbankCSharp\bin\Debug\Testfall2DatenbankCSharp.application
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Programmcode\CSharp\Nich optimiert\Testfall2DatenbankCSharp\Testfall2DatenbankCSharp\bin\Debug\Testfall2DatenbankCSharp.exe
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Programmcode\CSharp\Nich optimiert\Testfall2DatenbankCSharp\Testfall2DatenbankCSharp\bin\Debug\Testfall2DatenbankCSharp.pdb
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Programmcode\CSharp\Nich optimiert\Testfall2DatenbankCSharp\Testfall2DatenbankCSharp\obj\Debug\Testfall2DatenbankCSharp.csprojAssemblyReference.cache
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Programmcode\CSharp\Nich optimiert\Testfall2DatenbankCSharp\Testfall2DatenbankCSharp\obj\Debug\Testfall2DatenbankCSharp.csproj.CoreCompileInputs.cache
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Programmcode\CSharp\Nich optimiert\Testfall2DatenbankCSharp\Testfall2DatenbankCSharp\obj\Debug\Testfall2DatenbankCSharp.exe.manifest
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Programmcode\CSharp\Nich optimiert\Testfall2DatenbankCSharp\Testfall2DatenbankCSharp\obj\Debug\Testfall2DatenbankCSharp.application
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Programmcode\CSharp\Nich optimiert\Testfall2DatenbankCSharp\Testfall2DatenbankCSharp\obj\Debug\Testfall2DatenbankCSharp.exe
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Programmcode\CSharp\Nich optimiert\Testfall2DatenbankCSharp\Testfall2DatenbankCSharp\obj\Debug\Testfall2DatenbankCSharp.pdb
+C:\Users\deske\Desktop\Testfall2DatenbankCSharp\Testfall2DatenbankCSharp\bin\Debug\Testfall2DB.mdf
+C:\Users\deske\Desktop\Testfall2DatenbankCSharp\Testfall2DatenbankCSharp\bin\Debug\Testfall2DB_log.ldf

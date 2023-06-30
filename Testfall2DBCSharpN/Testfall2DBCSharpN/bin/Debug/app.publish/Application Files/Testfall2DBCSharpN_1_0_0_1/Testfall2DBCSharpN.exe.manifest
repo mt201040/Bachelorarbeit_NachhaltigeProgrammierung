@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Testfall2DBCSharpN.exe" version="1.0.0.1" publicKeyToken="994621b209339d2e" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Testfall2DBCSharpN" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Testfall2DBCSharpN.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC-Manifestoptionen
+          Wenn Sie die Zugangsebene für das Windows-Benutzerkonto ändern möchten, ersetzen Sie den 
+          requestedExecutionLevel-Knoten durch eines der folgenden Elemente.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Löschen Sie den requestedExecutionLevel-Knoten, wenn Sie 
+         zum Gewährleisten der Abwärtskompatibilität die Datei- und Registrierungsvirtualisierung verwenden möchten.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Testfall2DBCSharpN.exe" size="7576">
+      <assemblyIdentity name="Testfall2DBCSharpN" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>HYJ1Y2Ff+0NaG/t5XLy1xsR/HnSj9lpkiQKTcXp9XS8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Testfall2DB.mdf" size="8388608" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>w3plbS2lyQCXtPUzP2JELOukKcty2ZzXhQCh6Rdq8x4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Testfall2DB_log.ldf" size="142606336" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>FIRvFk7oDTNWy+w/7iUUtLUm9G5K8VWe8NQAt2+kFPA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Testfall2DBCSharpN.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=MSI\deske" issuerKeyHash="5b8e68fc3c4bee94103e5ffd8403e9076661695d" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Ev3yhU+BGTwRC1Jt0AfttUIekMhfMA65gw54Vbya/+s=</DigestValue></Reference></SignedInfo><SignatureValue>GRfcec2AF901Qht4+Kv5NZuGbIpQCfHmCAcOyhU7a2nPBZ7vPiri1lcSEmJc/2ZtgaY6Ks0Qt7lu+3YeShYYm+R90k5n+xFr+Z7WT4dRC8uW0IXJM3l2djZINoOK/mLZlmvaeAh8RLV4ShJ+PK1oFdX3KZaVyNCgxoGhOcRN2gs=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>yGgu9n7yOshcXkwg5yIg0hMJqanh+630x/zG7VTpvC/YsQSrdY7B2Geaf3uzU/w0D52zpb3vHoYpIbS5BdPrfTCWBfG8Ga4GwyR1p7PgifuUZ+IB9YopnCD/zycJNLbCay+LgnF6VQv+xe6Tap3F6/6UBy3XGwmtZVc+jnQNXNE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ebff9abc55780e83b90e305fc8901e42b5ed07d06d520b113c19814f85f2fd12" Description="" Url=""><as:assemblyIdentity name="Testfall2DBCSharpN.exe" version="1.0.0.1" publicKeyToken="994621b209339d2e" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=MSI\deske</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>h6TyfC2Bikjo6sKQChy6YHDrhQAD/cCbzs8IsB2fMQk=</DigestValue></Reference></SignedInfo><SignatureValue>Mu+zAuvdukxM3PW+aJAmO0azsQoWwN9RPQU0sgE/cWlPr6wNsyExk6dt8+PJ0TWrZO/7yg9V2dWhP+qlOtPKGv0guNsZv8/r3bMBRmLt34DlpHA46rfqjvhIAY28o9+/QEqgX3wxT83iQXxM+x72CaO3/GKm9x+rH1D3N7akOhU=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>yGgu9n7yOshcXkwg5yIg0hMJqanh+630x/zG7VTpvC/YsQSrdY7B2Geaf3uzU/w0D52zpb3vHoYpIbS5BdPrfTCWBfG8Ga4GwyR1p7PgifuUZ+IB9YopnCD/zycJNLbCay+LgnF6VQv+xe6Tap3F6/6UBy3XGwmtZVc+jnQNXNE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBvTCCASagAwIBAgIQfsHSqMzfWKNIohsL7JHumjANBgkqhkiG9w0BAQsFADAdMRswGQYDVQQDHhIATQBTAEkAXABkAGUAcwBrAGUwHhcNMjMwNjI4MTQ1NTI4WhcNMjQwNjI3MjA1NTI4WjAdMRswGQYDVQQDHhIATQBTAEkAXABkAGUAcwBrAGUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMhoLvZ+8jrIXF5MIOciINITCamp4fut9Mf8xu1U6bwv2LEEq3WOwdhnmn97s1P8NA+ds6W97x6GKSG0uQXT630wlgXxvBmuBsMkdaez4In7lGfiAfWKKZwg/88nCTS2wmsvi4JxelUL/sXuk2qdxev+lAct1xsJrWVXPo50DVzRAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAeuU/0XxeAOxSPHECFL5dNCydESsp7yeNsV8P0UUcvVS8xH4LXhh6gLr9FOA0D/4p3UUBb0e77LUBvss0odJkBEkKI1pffaFC6F7stNtbUTI2+QePO8yFIgn3FsiEvYQ5GvAJlEcAl3RE8PHZvplzyZFN8URw8X7UeK+lkkK2Odk=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

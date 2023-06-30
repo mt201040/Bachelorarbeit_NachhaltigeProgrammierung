@@ -1,0 +1,11 @@
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall1PrimCSharpN\Testfall1PrimCSharpN\bin\Debug\Testfall1PrimCSharpN.exe.config
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall1PrimCSharpN\Testfall1PrimCSharpN\bin\Debug\Testfall1PrimCSharpN.exe.manifest
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall1PrimCSharpN\Testfall1PrimCSharpN\bin\Debug\Testfall1PrimCSharpN.application
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall1PrimCSharpN\Testfall1PrimCSharpN\bin\Debug\Testfall1PrimCSharpN.exe
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall1PrimCSharpN\Testfall1PrimCSharpN\bin\Debug\Testfall1PrimCSharpN.pdb
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall1PrimCSharpN\Testfall1PrimCSharpN\obj\Debug\Testfall1PrimCSharpN.csprojAssemblyReference.cache
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall1PrimCSharpN\Testfall1PrimCSharpN\obj\Debug\Testfall1PrimCSharpN.csproj.CoreCompileInputs.cache
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall1PrimCSharpN\Testfall1PrimCSharpN\obj\Debug\Testfall1PrimCSharpN.exe.manifest
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall1PrimCSharpN\Testfall1PrimCSharpN\obj\Debug\Testfall1PrimCSharpN.application
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall1PrimCSharpN\Testfall1PrimCSharpN\obj\Debug\Testfall1PrimCSharpN.exe
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall1PrimCSharpN\Testfall1PrimCSharpN\obj\Debug\Testfall1PrimCSharpN.pdb

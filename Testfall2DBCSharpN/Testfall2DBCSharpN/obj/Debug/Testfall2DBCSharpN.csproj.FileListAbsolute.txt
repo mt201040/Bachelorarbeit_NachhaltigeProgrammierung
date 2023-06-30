@@ -1,0 +1,13 @@
+C:\Users\deske\Desktop\Testfall2DBCSharpN\Testfall2DBCSharpN\bin\Debug\Testfall2DB.mdf
+C:\Users\deske\Desktop\Testfall2DBCSharpN\Testfall2DBCSharpN\bin\Debug\Testfall2DB_log.ldf
+C:\Users\deske\Desktop\Testfall2DBCSharpN\Testfall2DBCSharpN\bin\Debug\Testfall2DBCSharpN.exe.config
+C:\Users\deske\Desktop\Testfall2DBCSharpN\Testfall2DBCSharpN\bin\Debug\Testfall2DBCSharpN.exe.manifest
+C:\Users\deske\Desktop\Testfall2DBCSharpN\Testfall2DBCSharpN\bin\Debug\Testfall2DBCSharpN.application
+C:\Users\deske\Desktop\Testfall2DBCSharpN\Testfall2DBCSharpN\bin\Debug\Testfall2DBCSharpN.exe
+C:\Users\deske\Desktop\Testfall2DBCSharpN\Testfall2DBCSharpN\bin\Debug\Testfall2DBCSharpN.pdb
+C:\Users\deske\Desktop\Testfall2DBCSharpN\Testfall2DBCSharpN\obj\Debug\Testfall2DBCSharpN.csprojAssemblyReference.cache
+C:\Users\deske\Desktop\Testfall2DBCSharpN\Testfall2DBCSharpN\obj\Debug\Testfall2DBCSharpN.csproj.CoreCompileInputs.cache
+C:\Users\deske\Desktop\Testfall2DBCSharpN\Testfall2DBCSharpN\obj\Debug\Testfall2DBCSharpN.exe.manifest
+C:\Users\deske\Desktop\Testfall2DBCSharpN\Testfall2DBCSharpN\obj\Debug\Testfall2DBCSharpN.application
+C:\Users\deske\Desktop\Testfall2DBCSharpN\Testfall2DBCSharpN\obj\Debug\Testfall2DBCSharpN.exe
+C:\Users\deske\Desktop\Testfall2DBCSharpN\Testfall2DBCSharpN\obj\Debug\Testfall2DBCSharpN.pdb

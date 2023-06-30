@@ -1,0 +1,11 @@
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall3SortCSharpN\Testfall3SortCSharpN\bin\Debug\Testfall3SortCSharpN.exe.config
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall3SortCSharpN\Testfall3SortCSharpN\bin\Debug\Testfall3SortCSharpN.exe
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall3SortCSharpN\Testfall3SortCSharpN\bin\Debug\Testfall3SortCSharpN.pdb
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall3SortCSharpN\Testfall3SortCSharpN\obj\Debug\Testfall3SortCSharpN.csprojAssemblyReference.cache
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall3SortCSharpN\Testfall3SortCSharpN\obj\Debug\Testfall3SortCSharpN.csproj.CoreCompileInputs.cache
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall3SortCSharpN\Testfall3SortCSharpN\obj\Debug\Testfall3SortCSharpN.exe
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall3SortCSharpN\Testfall3SortCSharpN\obj\Debug\Testfall3SortCSharpN.pdb
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall3SortCSharpN\Testfall3SortCSharpN\bin\Debug\Testfall3SortCSharpN.exe.manifest
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall3SortCSharpN\Testfall3SortCSharpN\bin\Debug\Testfall3SortCSharpN.application
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall3SortCSharpN\Testfall3SortCSharpN\obj\Debug\Testfall3SortCSharpN.exe.manifest
+C:\Users\deske\Desktop\FH 6 SEM\BachelorarbeitBackup\BachelorarbeitTestfaelle\Testfall3SortCSharpN\Testfall3SortCSharpN\obj\Debug\Testfall3SortCSharpN.application
